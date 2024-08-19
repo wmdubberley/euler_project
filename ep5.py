@@ -15,3 +15,4 @@ while cont:
     if x>0:
         print(f"Smallest number divisable numbers between {start} and {end} is {x}")
         cont=False
+        

@@ -1,5 +1,4 @@
-def get_square(n):
-    return n*n
+from util import get_square
 
 start = 1
 end = 100
